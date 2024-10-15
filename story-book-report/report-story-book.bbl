@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{website:pgfplots}
+Pgfplots package.
+\newblock \url{https://www.overleaf.com/learn/latex/Pgfplots_package}.
+\newblock Accessed: 2021-10-29.
+
+\bibitem{website:TikZ}
+pgf - a portable graphic format for tex.
+\newblock \url{https://github.com/pgf-tikz/pgf}.
+\newblock Accessed: 2020-10-26.
+
+\end{thebibliography}
